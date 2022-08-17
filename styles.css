@@ -1,0 +1,139 @@
+body {
+    font-family: 'DM Serif Display', serif;
+    margin: 10px 10px;
+
+}
+
+nav {
+    text-align: center;
+    border: 1px solid beige;
+    margin: 0;
+    padding: 40px 50px;
+    background-color: black;
+
+}
+
+
+
+nav li a {
+    margin: 60px;
+    color: white;
+    padding: 0 10px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+
+li {
+    display: inline;
+}
+
+nav>li>a {
+    display: inline;
+}
+
+
+
+a:hover {
+    color: chartreuse;
+    background-color: gray;
+
+
+}
+
+/* #top {} */
+.article {
+    position: absolute;
+    top: 60%;
+    color: white;
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 30%;
+    font-size: 30px;
+
+}
+
+.cv {
+    font-size: 20px;
+    background-image: linear-gradient(orange, red);
+    padding: 10px 40px;
+    border-radius: 20px;
+}
+
+.down {
+
+    background-color: gray;
+    /* margin: 0; */
+    text-align: center;
+}
+
+#black {
+    color: white;
+    background-color: gray;
+    padding: 10px 40px;
+    font-size: 20px;
+
+}
+
+.btn {
+    color: white;
+    background-image: linear-gradient(orange, red);
+    padding: 10px 40px;
+    border-radius: 20px;
+}
+
+#bl {
+    color: white;
+    background-color: gray;
+    padding: 10px 40px;
+    font-size: 20px;
+
+}
+
+#bla {
+    color: white;
+    background-color: gray;
+    padding: 10px 40px;
+    font-size: 20px;
+
+}
+
+button {
+    margin: 40px;
+}
+
+.youtube {
+    margin-top: 50px;
+    display: flex;
+}
+
+.fexible {
+    margin-left: 40px;
+}
+
+.tushar {
+    position: static;
+    margin-top: 50px;
+}
+
+#KHAN {
+    background-image: linear-gradient(red);
+}
+
+img {
+    margin: 40px;
+}
+
+.class {
+    text-align: center;
+}
+
+.white {
+    background-color: wheat;
+}
+
+.blk {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
